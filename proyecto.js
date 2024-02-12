@@ -46,7 +46,6 @@ if("SI" == hijos.toUpperCase()){
  cantidad_hijos = prompt("¿Cuántos hijos tiene? Ingrese solamente números")
 }
 //Comprobamos la cantidad de hijos solamente si los tienen
-  var hijo_numero = parseInt (hijos)
 var cantidad_hijos_numero = 0
 //convirtiendo la cantidad de hijos a numeros
 if("SI" == hijos.toUpperCase()){
