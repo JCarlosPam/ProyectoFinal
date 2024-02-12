@@ -1,0 +1,8 @@
+Algoritmo para el proyecto final:
+
+1. Bienvenida al Usuario
+2. Toma de datos(nombre, estado civil, cantiadad de hijos)
+3. Validacion de datos recogidos.
+4. Proceso de los cargos adicionales.
+5. Display del recargo total sobre el precio base.
+6. Display del precio total sumado con el precio base.

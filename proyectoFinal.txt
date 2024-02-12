@@ -1,0 +1,8 @@
+El problema se da en una aseguradora que actualmente realiza cotizaciones de manera manual, por la falta de utomatizacion se ven perdidas en clientes.
+
+Se busca desarrollar un programa que agilize la operacion tomando en cuenta el precio base del seguro pero tambien factores que sumen un recargo, estos factores son los siguientes:
+
+Edad del asegurado
+Si esta casado o no
+Edad del espos@
+Cantidad de hijos
